@@ -24,6 +24,7 @@ yarn-error.log*
 
 .next
 node_modules
+out
 *.log
 yarn.lock
 package-lock.json
